@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![screencapture-ninononikashvili-github-io-OtoBC-fall2022-hw3-order-summary-comp-2022-11-09-02_46_36](https://user-images.githubusercontent.com/61002720/200695144-5700ad75-5a89-47d5-ae5b-65e020490831.png)
+![screencapture-ninononikashvili-github-io-OtoBC-fall2022-hw4-profile-card-comp-2022-11-09-03_05_27](https://user-images.githubusercontent.com/61002720/200695464-cbee6d81-aed4-42dd-9914-dede6028542f.png)
 
 
 ### Links
@@ -33,6 +33,7 @@
 
 - revised basic structure of html and basic styles.
 - revised the use of flexbox and CSS grid
+- learned how to use background and its properties to get desirable design.
 
 
 ## Author
